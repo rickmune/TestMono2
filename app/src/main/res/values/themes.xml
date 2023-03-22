@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.Customer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF107982</item>
+        <item name="colorPrimaryVariant">#FF107982</item>
+        <item name="colorOnPrimary">#FFffffff</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF4A6366</item>
+        <item name="colorSecondaryVariant">#FF201c04</item>
+        <item name="colorOnSecondary">#FFffffff</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="Theme.Customer.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Customer.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Customer.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.App.Starting" parent="Theme.Customer.NoActionBar">
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_splash_image_light</item>
+        <item name="postSplashScreenTheme">@style/Theme.Customer.NoActionBar</item>
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+    </style>
+</resources>

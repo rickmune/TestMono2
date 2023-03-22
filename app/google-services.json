@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "535183286971",
+    "project_id": "deltapay-dev",
+    "storage_bucket": "deltapay-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535183286971:android:d3a1750eeae97967cf3f9e",
+        "android_client_info": {
+          "package_name": "co.deltapay.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535183286971-1aqdgka01u7ik2s522gntn1hd1b6qu46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.deltapay.customer",
+            "certificate_hash": "fbe9a0bb38b97de69ed45dd623ba65ce824efd26"
+          }
+        },
+        {
+          "client_id": "535183286971-cjsrueojtrcdjfqlr7gm2hnv9nsb87kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdb7KauTKFyr0NeZVuDCXpiaaRA_9AA6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535183286971-cjsrueojtrcdjfqlr7gm2hnv9nsb87kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect_public_key" translatable="false">"test_pk_t6e8twwt6bpXfE6Wi6Rk"</string>
+
+    <string name="please_scan_the_merchant_qr_code">Please scan the QR code of the merchant to capture their details</string>
+    <string name="merchant">Merchant</string>
+    <string name="loan_details">Loan Details</string>
+    <string name="repayment_details">Repayment Details</string>
+    <string name="laon_amount">Loan Amount</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="repayment_amount">Repayment Amount</string>
+    <string name="cancel">Cancel</string>
+    <string name="view_request">View Request</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="view_request_summary">View Request Summary</string>
+    <string name="ok">Ok</string>
+    <string name="request_received_and_is_being_processed">Your request has been received and is being processed. You will receive a message on the status of the request.</string>
+    <string name="request_failed_please_try_again_later">Your loan request failed, please try again later or conduct the customer care for support.</string>
+    <string name="pay">Pay</string>
+</resources>

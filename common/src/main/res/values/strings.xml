@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="company_name">Deltapay</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="required">%s required</string>
+    <string name="complete">Complete</string>
+
+    <string name="lang_title">Language Selection</string>
+    <string name="lang_desc">Please select your preferred language before proceeding to the next section</string>
+    <string name="lang_eng">English</string>
+    <string name="lang_swahili">Swahili</string>
+
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_desc">Glad to have you onboard. Please select "Sign up" to create a new account or "Sign In" for existing customers</string>
+    <string name="welcome_signup">Sign Up</string>
+    <string name="welcome_signin">Sign In</string>
+
+    <string name="terms_title">Terms and Conditions</string>
+    <string name="terms_desc">Please take time to go through our terms and conditions as well as our privacy policy then click the checkbox below</string>
+    <string name="terms_conditions_link">Terms and Conditions</string>
+    <string name="terms_policy_link">Privacy Policy</string>
+    <string name="terms_accept">I accept the Terms of Service and Privacy Policy</string>
+
+    <string name="doc_type_title">Document Type</string>
+    <string name="doc_type_desc">To proceed, please select the legal document to be used to capture and verify your personal details and proof of life.</string>
+    <string name="doc_type_national_id">National ID</string>
+    <string name="doc_type_passport">Passport</string>
+
+    <string name="upload_title">Document upload</string>
+    <string name="upload_desc">Please take a picture of %s and press %s to continue</string>
+    <string name="upload_capture_id_front">Capture ID Front</string>
+    <string name="upload_capture_id_back">Capture ID Back</string>
+    <string name="upload_front_captured">Front ID Captured</string>
+    <string name="upload_back_captured">Back ID Captured</string>
+    <string name="upload_capture_passport">Capture Passport</string>
+    <string name="upload_passport_captured">Passport Captured</string>
+    <string name="upload_desc_front_id">the font of your National ID</string>
+    <string name="upload_desc_back_id">the back of your National ID</string>
+    <string name="upload_desc_passport">your passport</string>
+    
+    <string name="selfie_title">Take Selfie</string>
+    <string name="selfie_desc">Please take a selfie with full face in view to continue the verification process</string>
+    <string name="selfie_capture">Capture Selfie</string>
+    <string name="selfie_captured">Selfie Captured</string>
+
+     <!-- Personal details confirmation screen-->
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="national_id">National ID</string>
+    <string name="email">Email</string>
+    <string name="dob">Date of Birth</string>
+    <string name="dob_format">dd/mm/yyyy</string>
+    <string name="confirm_personal_details">Confirm Personal Details</string>
+    <string name="confirm_personal_details_desc">Please confirm the details captured from your identification document and provide your email and phone number</string>
+
+    <!-- OTP screen-->
+    <string name="phone_verification">Phone Verification</string>
+    <string name="otp_desc">A One-Time-Password (OTP) has been sent to the mobile number provided. Please check your messages and enter it below. </string>
+    <string name="resend_in">Resend in %s</string>
+
+    <!-- Email Screen -->
+    <string name="email_verification">Email Verification</string>
+    <string name="otp_desc_email">A One-Time-Password (OTP) has been sent to the email provided. Please check your email and enter it below. </string>
+
+    <!-- Password Screen -->
+    <string name="password_screen_title">Password Configuration</string>
+    <string name="password_screen_desc">Please create a new password for your account </string>
+    <string name="password_requirement_characters">Password should contain a minimum of 8 characters</string>
+    <string name="password_requirement_uppercase_letter">Password should contain uppercase letter</string>
+    <string name="password_requirement_lowercase_letter">Password should contain lowercase letter</string>
+    <string name="password_requirement_special_character">Password should contain a special character</string>
+    <string name="password_requirement_matching">Passwords should match</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- login in -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_pin">PIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+
+    <string name="invalid_number">Invalid Phone Number</string>
+    <string name="search">Search</string>
+    <string name="repay_loan">Loan repayment</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="repayment_amount">Repayment Amount</string>
+    <string name="pay">Pay</string>
+    <string name="transaction_history">History</string>
+    <string name="retry">Retry</string>
+
+</resources>

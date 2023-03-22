@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="phone_verification">Phone Verification</string>
+    <string name="email_verification">Email Verification</string>
+</resources>

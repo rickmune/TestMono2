@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/home_navigation_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="co.deltapay.home.ui.HomeFragment"
+        android:label="splashFragment" >
+        <deepLink app:uri="myApp://homeFragment?status={status}" />
+        <argument android:name="status" app:argType="string"/>
+        <action
+            android:id="@+id/toMonoFragment"
+            app:destination="@id/monoFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/monoFragment"
+        android:name="co.deltapay.home.ui.integrations.MonoFragment"
+        android:label="mono fragment" />
+
+</navigation>
